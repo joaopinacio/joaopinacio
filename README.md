@@ -4,14 +4,14 @@
 
 ## Just a feel things about me
 
-**I'm João Pedro**  
+**I'm João Pedro** :shipit:  
 22y old but just 3y programming
 
 <!-- - **Courses and Certificates**
 🎓
 -->
 
-### Programming Languages And Tools
+### Programming Languages And Tools :computer:
 
 - **Favourites**  
 <img src="https://i.imgur.com/7lBEVta.png" width="18"/> <b>JavaScript</b>  
