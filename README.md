@@ -7,8 +7,12 @@
 **I'm João Pedro** :shipit:  
 22y old but just 3y programming
 
-<!-- - **Courses and Certificates**  
-🎓 [** EX **](Link) - 10h  
+- **Courses and Certificates**  
+🎓 [**Jquery Course**](https://www.sololearn.com/Certificate/1082-8973574/pdf/?mode=download) - 2019  
+🎓 [**PHP Course**](https://www.sololearn.com/Certificate/1059-8973574/pdf/?mode=download) - 2019  
+🎓 [**Java Course**](https://www.sololearn.com/Certificate/1068-8973574/pdf/?mode=download) - 2019  
+🎓 [**Scrum Foundation Professional**](https://pdf.classmarker.com/pdf/certificate/?certificate_id=33735&sid=31076722&nrg_id=542366&test_id=976061&aid=4238890&utype=SD&cert_token=79fde1bc7128e6b35e268d7b858c907d&tprtoken=4KAP) - 2019  
+<!--
 🏅 [** EX **](Link) - 2020 - 6°  
 -->
 
