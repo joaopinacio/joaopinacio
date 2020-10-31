@@ -7,8 +7,9 @@
 **I'm João Pedro** :shipit:  
 22y old but just 3y programming
 
-<!-- - **Courses and Certificates**
-🎓
+<!-- - **Courses and Certificates**  
+🎓 [** EX **](Link) - 10h  
+🏅 [** EX **](Link) - 2020 - 6°  
 -->
 
 ### Programming Languages And Tools :computer:
