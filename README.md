@@ -27,7 +27,7 @@
 
 - **Already used**  
 <img src="https://i.imgur.com/NoHe87H.jpg" width="18"/> <b>TypeScript</b>  
-<img src="https://i.imgur.com/s80JhhI.png" width="20"/> <b>Node Js</b>  
+<img src="https://i.imgur.com/0x00uwz.png" width="20"/> <b>Node Js</b>  
 <img src="https://i.imgur.com/x2znJAC.jpg" width="18"/> <b>Java</b>  
 
 - **Currently learning**  
