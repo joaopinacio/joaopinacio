@@ -8,6 +8,7 @@
 22y old but just 3y programming
 
 - **Courses and Certificates**  
+🎓 [**Certified ScrumMaster® (CSM®)**](http://bcert.me/slnywpsgk) - 2020  
 🎓 [**Jquery Course**](https://www.sololearn.com/Certificate/1082-8973574/pdf/?mode=download) - 2019  
 🎓 [**PHP Course**](https://www.sololearn.com/Certificate/1059-8973574/pdf/?mode=download) - 2019  
 🎓 [**Java Course**](https://www.sololearn.com/Certificate/1068-8973574/pdf/?mode=download) - 2019  
