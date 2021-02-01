@@ -5,7 +5,7 @@
 ## Just a feel things about me
 
 **I'm João Pedro** :shipit:  
-22y old but just 3y programming
+23y old but just 3y programming
 
 - **Courses and Certificates**  
 🎓 [**Certified ScrumMaster® (CSM®)**](http://bcert.me/slnywpsgk) - 2020  
