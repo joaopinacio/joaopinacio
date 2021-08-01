@@ -31,5 +31,5 @@
 <img src="https://i.imgur.com/PX47txr.png" width="17"/> <b>Node Js</b>  
 <img src="https://i.imgur.com/x2znJAC.jpg" width="18"/> <b>Java</b>  
 
-- **Currently learning**  
+- **Currently learning and loving**  
 <img src="https://i.imgur.com/lOaAty2.png" width="18"/> <b>Flutter</b>   
