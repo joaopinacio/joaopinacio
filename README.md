@@ -1,5 +1,6 @@
 <p>
-   <img src="https://i.imgur.com/gjPALxy.jpg" alt="CL Thumb" border="0" width="100%">
+   <!-- <img src="https://i.imgur.com/gjPALxy.jpg" alt="CL Thumb" border="0" width="100%"> -->
+   <img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="100%">
 </p>
 
 ## Just a feel things about me
